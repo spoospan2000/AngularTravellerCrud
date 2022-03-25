@@ -1,0 +1,16 @@
+C:\Users\SPOORTHY\source\repos\TravellerWebAPI\Lib.traveller.Service\bin\Debug\netcoreapp3.1\Lib.traveller.Service.deps.json
+C:\Users\SPOORTHY\source\repos\TravellerWebAPI\Lib.traveller.Service\bin\Debug\netcoreapp3.1\Lib.traveller.Service.runtimeconfig.json
+C:\Users\SPOORTHY\source\repos\TravellerWebAPI\Lib.traveller.Service\bin\Debug\netcoreapp3.1\Lib.traveller.Service.runtimeconfig.dev.json
+C:\Users\SPOORTHY\source\repos\TravellerWebAPI\Lib.traveller.Service\bin\Debug\netcoreapp3.1\Lib.traveller.Service.dll
+C:\Users\SPOORTHY\source\repos\TravellerWebAPI\Lib.traveller.Service\bin\Debug\netcoreapp3.1\Lib.traveller.Service.pdb
+C:\Users\SPOORTHY\source\repos\TravellerWebAPI\Lib.traveller.Service\obj\Debug\netcoreapp3.1\Lib.traveller.Service.csproj.AssemblyReference.cache
+C:\Users\SPOORTHY\source\repos\TravellerWebAPI\Lib.traveller.Service\obj\Debug\netcoreapp3.1\Lib.traveller.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SPOORTHY\source\repos\TravellerWebAPI\Lib.traveller.Service\obj\Debug\netcoreapp3.1\Lib.traveller.Service.AssemblyInfoInputs.cache
+C:\Users\SPOORTHY\source\repos\TravellerWebAPI\Lib.traveller.Service\obj\Debug\netcoreapp3.1\Lib.traveller.Service.AssemblyInfo.cs
+C:\Users\SPOORTHY\source\repos\TravellerWebAPI\Lib.traveller.Service\obj\Debug\netcoreapp3.1\Lib.traveller.Service.csproj.CoreCompileInputs.cache
+C:\Users\SPOORTHY\source\repos\TravellerWebAPI\Lib.traveller.Service\obj\Debug\netcoreapp3.1\Lib.traveller.Service.dll
+C:\Users\SPOORTHY\source\repos\TravellerWebAPI\Lib.traveller.Service\obj\Debug\netcoreapp3.1\Lib.traveller.Service.pdb
+C:\Users\SPOORTHY\source\repos\TravellerWebAPI\Lib.traveller.Service\obj\Debug\netcoreapp3.1\Lib.traveller.Service.genruntimeconfig.cache
+C:\Users\SPOORTHY\source\repos\TravellerWebAPI\Lib.traveller.Service\bin\Debug\netcoreapp3.1\Lib.traveller.Models.dll
+C:\Users\SPOORTHY\source\repos\TravellerWebAPI\Lib.traveller.Service\bin\Debug\netcoreapp3.1\Lib.traveller.Models.pdb
+C:\Users\SPOORTHY\source\repos\TravellerWebAPI\Lib.traveller.Service\obj\Debug\netcoreapp3.1\Lib.traveller.Service.csproj.CopyComplete

@@ -1,0 +1,88 @@
+<nav class="navbar navbar-light bg-primary">
+    <div class="container-fluid">
+        <h2 style="color:aliceblue">Angular Traveller CRUD</h2>
+        <div class="d-flex">
+            <button (click)="clickAddTraveller()"class="btn btn-success" data-bs-toggle="modal" data-bs-target="#exampleModal">Add Traveller</button>
+        </div>
+    </div>
+</nav>
+
+<table class="table mt-3">
+<thead>
+<tr>
+    <th>Traveller ID</th>
+    <th>First Name</th>
+    <th>Last Name</th>
+    <th>Address</th>
+    <th>Email ID</th>
+    <th>Mobile No</th>
+    <th>Country</th>
+    <th>Action</th>
+</tr>
+</thead>
+<tbody>
+<tr *ngFor="let tvr of travellerData">
+    <td>{{tvr.Id}}</td>
+    <td>{{tvr.Firstname}}</td>
+    <td>{{tvr.Lastname}}</td>
+    <td>{{tvr.Address}}</td>
+    <td>{{tvr.Email}}</td>
+    <td>{{tvr.Mobile}}</td>
+    <td>{{tvr.Country}}</td>
+    <td>
+        <button (click)="onEdit(tvr)" class="btn btn-warning" data-bs-toggle="modal" data-bs-target="#exampleModal">Edit</button> &nbsp;
+        <button (click)="deleteTraveller(tvr)" class="btn btn-danger">Delete</button>
+    </td>
+</tr>
+</tbody>
+
+</table>
+
+
+
+  
+  <!-- Modal -->
+  <div class="modal fade" id="exampleModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+    <div class="modal-dialog">
+      <div class="modal-content">
+        <div class="modal-header">
+          <h5 class="modal-title" id="exampleModalLabel">Add New Traveller</h5>
+          <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+        </div>
+        <div class="modal-body">
+            <form [formGroup]="formvalue">
+                <div class="mb-3">
+                  <label for="exampleInputEmail1" class="form-label">First Name</label>
+                  <input type="text" formControlName="Firstname" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp">
+                 
+                </div>
+                <div class="mb-3">
+                  <label for="exampleInputPassword1" class="form-label">Last Name</label>
+                  <input type="text" formControlName="Lastname" class="form-control" id="exampleInputPassword1">
+                </div>
+                <div class="mb-3">
+                    <label for="exampleInputPassword1" class="form-label">Address</label>
+                    <input type="text" formControlName="Address" class="form-control" id="exampleInputPassword1">
+                  </div>
+                <div class="mb-3">
+                    <label for="exampleInputEmail1" class="form-label">Email ID</label>
+                    <input type="email" formControlName="Email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp">                
+                  </div>
+                  <div class="mb-3">
+                    <label for="exampleInputPassword1" class="form-label">Mobile</label>
+                    <input type="text" formControlName="Mobile" class="form-control" id="exampleInputPassword1">
+                  </div>
+                  <div class="mb-3">
+                    <label for="exampleInputPassword1" class="form-label">Country</label>
+                    <input type="text" formControlName="Country" class="form-control" id="exampleInputPassword1">
+                  </div>
+              </form>
+        </div>
+        <div class="modal-footer">
+          <button  id="cancel" type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
+          <button type="button" *ngIf="showAdd" (click)="postTravellerDetails()" class="btn btn-primary">Add Traveller</button>
+          <button type="button" *ngIf="showUpdate" (click)="updateTravellerDetails()" class="btn btn-primary">Update</button>
+        </div>
+      </div>
+    </div>
+  </div>

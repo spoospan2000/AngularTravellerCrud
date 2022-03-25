@@ -1,0 +1,13 @@
+C:\Users\SPOORTHY\source\repos\TravellerWebAPI\Lib.traveller.Models\bin\Debug\netcoreapp3.1\Lib.traveller.Models.deps.json
+C:\Users\SPOORTHY\source\repos\TravellerWebAPI\Lib.traveller.Models\bin\Debug\netcoreapp3.1\Lib.traveller.Models.runtimeconfig.json
+C:\Users\SPOORTHY\source\repos\TravellerWebAPI\Lib.traveller.Models\bin\Debug\netcoreapp3.1\Lib.traveller.Models.runtimeconfig.dev.json
+C:\Users\SPOORTHY\source\repos\TravellerWebAPI\Lib.traveller.Models\bin\Debug\netcoreapp3.1\Lib.traveller.Models.dll
+C:\Users\SPOORTHY\source\repos\TravellerWebAPI\Lib.traveller.Models\bin\Debug\netcoreapp3.1\Lib.traveller.Models.pdb
+C:\Users\SPOORTHY\source\repos\TravellerWebAPI\Lib.traveller.Models\obj\Debug\netcoreapp3.1\Lib.traveller.Models.csproj.AssemblyReference.cache
+C:\Users\SPOORTHY\source\repos\TravellerWebAPI\Lib.traveller.Models\obj\Debug\netcoreapp3.1\Lib.traveller.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SPOORTHY\source\repos\TravellerWebAPI\Lib.traveller.Models\obj\Debug\netcoreapp3.1\Lib.traveller.Models.AssemblyInfoInputs.cache
+C:\Users\SPOORTHY\source\repos\TravellerWebAPI\Lib.traveller.Models\obj\Debug\netcoreapp3.1\Lib.traveller.Models.AssemblyInfo.cs
+C:\Users\SPOORTHY\source\repos\TravellerWebAPI\Lib.traveller.Models\obj\Debug\netcoreapp3.1\Lib.traveller.Models.csproj.CoreCompileInputs.cache
+C:\Users\SPOORTHY\source\repos\TravellerWebAPI\Lib.traveller.Models\obj\Debug\netcoreapp3.1\Lib.traveller.Models.dll
+C:\Users\SPOORTHY\source\repos\TravellerWebAPI\Lib.traveller.Models\obj\Debug\netcoreapp3.1\Lib.traveller.Models.pdb
+C:\Users\SPOORTHY\source\repos\TravellerWebAPI\Lib.traveller.Models\obj\Debug\netcoreapp3.1\Lib.traveller.Models.genruntimeconfig.cache
